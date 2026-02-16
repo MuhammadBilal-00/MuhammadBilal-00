@@ -59,5 +59,5 @@ I don't just write code; I build intelligent ecosystems. From **Enterprise ERPs*
 
 ### 📫 Let's Connect
 
-* **LinkedIn:** [chazeemaslam](https://www.linkedin.com/in/chazeemaslam)
-* **Email:** [theazeemaslam@gmail.com](mailto:theazeemaslam@gmail.com)
+* **LinkedIn:** [muhammad-bilal-a57aaa2bb](https://www.linkedin.com/in/muhammad-bilal-a57aaa2bb/)
+* **Email:** [bilalbhatticc683@gmail.com](mailto:bilalbhatticc683@gmail.com)
