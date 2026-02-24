@@ -1,6 +1,6 @@
 # Hi there, I'm Muhammad Bilal! 👋
 
-**AI Engineer & Full-Stack Architect** based in Lahore, Pakistan.
+**AI Engineer & Full-Stack Architect** based in London, England.
 
 I don't just write code; I build intelligent ecosystems. From **Enterprise ERPs** and **International CRMs** to **Generative AI (RAG)** and **Automated Machine Learning** pipelines. My passion lies in bridging the gap between complex hardware/data and intuitive user experiences.
 
