@@ -18,12 +18,13 @@
 
 **Muhammad Bilal** is a software developer focused on full-stack development, .NET systems, React applications, AI solutions, and scalable business software. Passionate about building real-world products with strong UI/UX and clean backend architecture.
 
-- 🔭 Currently building **AI-powered SaaS platforms**
+- 🔭 Currently building **Parchi Ecosystem** — Mobile + Web Event Platform
 - 🧠 Deep in **LLMs, RAG pipelines & AutoML**
 - 💼 Delivered enterprise systems for **100+ clients**
 - 🚀 Co-built **PARCHI** — a startup event ticketing platform
 - 🌍 Based in **London, England**
 - ⚡ Automated an entire payroll system via ZKTeco biometric hardware
+- 🎯 Open to **Internships / Graduate Roles / Freelance Projects**
 
 <br clear="right"/>
 
@@ -57,6 +58,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SignalR](https://img.shields.io/badge/SignalR-0078D7?style=for-the-badge&logo=microsoft&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 **🛠️ Tools & DevOps**
 
@@ -72,32 +74,43 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MuhammadBilal-00&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F0A500&icon_color=F0A500&text_color=C9D1D9" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadBilal-00&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F0A500&text_color=C9D1D9&langs_count=8" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MuhammadBilal-00&theme=tokyonight" width="100%" alt="Profile Details" />
 
 </div>
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=MuhammadBilal-00&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MuhammadBilal-00&theme=tokyonight" width="32%" alt="Repos Per Language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MuhammadBilal-00&theme=tokyonight" width="32%" alt="Most Commit Language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MuhammadBilal-00&theme=tokyonight" width="32%" alt="Stats" />
+
+</div>
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadBilal-00&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F0A500&text_color=C9D1D9&langs_count=10" alt="Top Languages" />
+
+</div>
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=MuhammadBilal-00&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ---
 
-### 🐍 Contribution Snake
+### 🐍 Contribution Activity
+
+<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MuhammadBilal-00/MuhammadBilal-00/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MuhammadBilal-00/MuhammadBilal-00/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MuhammadBilal-00/MuhammadBilal-00/output/github-contribution-grid-snake-dark.svg">
+  <img width="100%" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MuhammadBilal-00/MuhammadBilal-00/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
----
-
-### 📈 Activity Graph
-
-[![Muhammad Bilal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MuhammadBilal-00&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=F0A500&line=F0A500&point=FFFFFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
+</div>
 
 ---
 
