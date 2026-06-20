@@ -143,6 +143,17 @@ High-end **web event platform** with an immersive React buyer frontend (3D anima
 
 ---
 
+#### 🏁 [F1 Oracle AI](https://github.com/MuhammadBilal-00/F1-Oracle-AI)
+
+Premium Formula 1 machine-learning platform with race outcome prediction, Monte Carlo simulations, and full historical analytics across decades of Grand Prix data.
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+---
+
 #### ☕ [Cafe Management System](https://github.com/MuhammadBilal-00/Cafe-Manangement-System)
 
 Full-stack cafe management platform with **real-time order queues** via SignalR, table reservations, kitchen display systems (KDS), employee attendance & payroll — all on **ASP.NET Core**.
