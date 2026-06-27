@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=500&color=F0A500&center=true&vCenter=true&width=820&lines=Muhammad+Bilal+%F0%9F%91%8B;Full-Stack+Engineer+%7C+AI+Developer;.NET+%7C+React+%7C+Python+%7C+LLMs;Building+Real+Products+That+Scale;London%2C+England+%F0%9F%87%AC%F0%9F%87%A7" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=500&color=F0A500&center=true&vCenter=true&width=820&lines=Muhammad+Bilal+%F0%9F%91%8B;Full-Stack+Engineer+%7C+AI+Developer;Building+Scalable+Apps+%26+Smart+Systems" alt="Typing SVG" />
 
 <br/>
 
@@ -16,7 +16,7 @@
 
 ### 🧬 About Me
 
-**Muhammad Bilal** is a software developer focused on full-stack development, .NET systems, React applications, AI solutions, and scalable business software. Passionate about building real-world products with strong UI/UX and clean backend architecture.
+**Muhammad Bilal** is a software developer focused on full-stack development, .NET systems, React applications, AI solutions, and scalable business software. Passionate about building real-world products that blend performance, usability, and modern engineering.
 
 - 🔭 Currently building **Parchi Ecosystem** — Mobile + Web Event Platform
 - 🧠 Deep in **LLMs, RAG pipelines & AutoML**
@@ -88,7 +88,7 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadBilal-00&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F0A500&text_color=C9D1D9&langs_count=10" alt="Top Languages" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadBilal-00&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F0A500&text_color=C9D1D9" alt="Top Languages" />
 
 </div>
 
@@ -121,7 +121,7 @@
 #### 🎟️ PARCHI — Smart Event Ticketing App
 > *Startup product — co-built with [Azymistic](https://github.com/azymistic)*
 
-A startup-grade **React Native mobile app** with QR-based ticket scanning, dual buyer/seller modes, event discovery, multi-day event support, push notifications, and a premium analytics dashboard — a polished cross-platform mobile experience.
+A startup-grade **React Native mobile app** with QR-based ticket scanning, dual buyer/seller modes, event discovery, multi-day event support, push notifications, and a premium analytics dashboard.
 
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white)
@@ -133,13 +133,24 @@ A startup-grade **React Native mobile app** with QR-based ticket scanning, dual 
 #### 🌐 PARCHI WEB — Full Event Management Platform
 > *Startup product — co-built with [Azymistic](https://github.com/azymistic)*
 
-High-end **web event platform** with an immersive React buyer frontend (3D animations, modern transitions) backed by a **.NET Core MVC + Web API** powerhouse — organizer dashboards, institution approval workflows, ticket management, payment integration, role-based auth, and full event governance.
+High-end **web event platform** with an immersive React buyer frontend (3D animations, modern transitions) backed by a **.NET Core MVC + Web API** powerhouse — organizer dashboards, institution onboarding, Stripe payments, and RBAC admin controls.
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![.NET Core MVC](https://img.shields.io/badge/.NET_Core_MVC-5C2D91?style=flat-square&logo=.net&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+
+---
+
+#### 🎓 [Education Consultant Chatbot](https://github.com/MuhammadBilal-00/Education-Consultant-AI-Bot)
+
+A friendly **AI education consultancy assistant** that helps students with admissions, scholarships, career planning, study abroad guidance, course selection, and exam prep. Built with streaming responses and topic-focused conversations for practical, real-time support.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-FF7A00?style=flat-square)
+![Groq API](https://img.shields.io/badge/Groq_API-00A67E?style=flat-square)
+![LLM](https://img.shields.io/badge/LLM-openai%2Fgpt--oss--20b-7B61FF?style=flat-square)
 
 ---
 
@@ -210,12 +221,12 @@ Decision tree model for heart disease prediction using the **UCI Cleveland datas
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| **👥 [Customer Registration](https://github.com/MuhammadBilal-00/Customer-Registration-)** | ASP.NET Core MVC with multi-role Identity auth, email confirmation, resource-based authorization & localization | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![Identity](https://img.shields.io/badge/Identity-0078D4?style=flat-square) |
-| **🏫 Campus Management Suite** | Multi-campus SaaS for Admissions, Finance & Exams with role-based portals and mobile interface | ![ASP.NET](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) |
-| **🔐 Biometric HR & Payroll** | Automated payroll syncing ZKTeco biometric attendance directly to SQL Server | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) |
-| **🏥 Hospital HMIS** | Enterprise system for 100+ clients with HL7/ASTM lab integrations and pharmacy inventory | ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white) ![SignalR](https://img.shields.io/badge/SignalR-0078D7?style=flat-square) |
-| **🛒 Numbers ERP (POS)** | High-volume Point of Sale with inventory tracking and FBR-compliant digital invoicing | ![.NET Core](https://img.shields.io/badge/.NET_Core-5C2D91?style=flat-square) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square) |
-| **🌍 Kuwait CRM** | International CRM for the Kuwaiti market — lead tracking, automated workflows, full English UI | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=white) ![Node](https://img.shields.io/badge/Node-339933?style=flat-square) |
+| **👥 [Customer Registration](https://github.com/MuhammadBilal-00/Customer-Registration-)** | ASP.NET Core MVC with multi-role Identity auth, email confirmation, resource-based authorization & enterprise architecture | ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=.net&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) ![Identity](https://img.shields.io/badge/Identity-Secure-2E7D32?style=flat-square) |
+| **🏫 Campus Management Suite** | Multi-campus SaaS for Admissions, Finance & Exams with role-based portals and mobile interface | ![ASP.NET](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=.net&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white) |
+| **🔐 Biometric HR & Payroll** | Automated payroll syncing ZKTeco biometric attendance directly to SQL Server | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) ![Automation](https://img.shields.io/badge/Automation-FF9800?style=flat-square) |
+| **🏥 Hospital HMIS** | Enterprise system for 100+ clients with HL7/ASTM lab integrations and pharmacy inventory | ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white) ![Interoperability](https://img.shields.io/badge/HL7%2FASTM-0052CC?style=flat-square) ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) |
+| **🛒 Numbers ERP (POS)** | High-volume Point of Sale with inventory tracking and FBR-compliant digital invoicing | ![.NET Core](https://img.shields.io/badge/.NET_Core-5C2D91?style=flat-square&logo=.net&logoColor=white) ![POS](https://img.shields.io/badge/POS-00ACC1?style=flat-square) ![Inventory](https://img.shields.io/badge/Inventory-8E24AA?style=flat-square) |
+| **🌍 Kuwait CRM** | International CRM for the Kuwaiti market — lead tracking, automated workflows, full English UI | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![CRM](https://img.shields.io/badge/CRM-1E88E5?style=flat-square) ![Workflow](https://img.shields.io/badge/Workflow-43A047?style=flat-square) |
 
 ---
 
@@ -223,9 +234,9 @@ Decision tree model for heart disease prediction using the **UCI Cleveland datas
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| **📁 Auto-EDA & ML Predictor** | Performs EDA on any uploaded dataset with auto-visualization and instant model-based predictions | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) |
-| **🤖 Document RAG Chatbot** | PDF assistant using Retrieval-Augmented Generation for context-aware answers from technical files | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) |
-| **🎓 Edu-Consultant Bot** | Specialized RAG chatbot for educational consultancy — instant guidance based on university admission data | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square) ![NLP](https://img.shields.io/badge/NLP-FF6F00?style=flat-square) |
+| **📁 Auto-EDA & ML Predictor** | Performs EDA on any uploaded dataset with auto-visualization and instant model-based predictions | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) |
+| **🤖 Document RAG Chatbot** | PDF assistant using Retrieval-Augmented Generation for context-aware answers from technical files | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-6A1B9A?style=flat-square) |
+| **🎓 [Edu-Consultant Bot](https://github.com/MuhammadBilal-00/Education-Consultant-AI-Bot)** | Specialized AI chatbot for educational consultancy with topic-focused guidance on admissions, scholarships, career planning, and study abroad. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Gradio](https://img.shields.io/badge/Gradio-FF7A00?style=flat-square) ![Groq](https://img.shields.io/badge/Groq-00A67E?style=flat-square) |
 
 ---
 
