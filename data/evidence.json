@@ -1,0 +1,518 @@
+{
+ "login": "MuhammadBilal-00",
+ "generated": "2026-10-07",
+ "repos": {
+  "MuhammadBilal-00/Cafe-Manangement-System": {
+   "private": false,
+   "owner": "MuhammadBilal-00",
+   "commits": 109,
+   "repoCommits": 150,
+   "additions": 287633,
+   "deletions": 28775,
+   "first": "2026-01-16",
+   "last": "2026-07-19",
+   "prs": {
+    "opened": 1,
+    "merged": 1,
+    "open": 0
+   },
+   "days": {
+    "2026-07-19": 9,
+    "2026-07-18": 2,
+    "2026-07-11": 3,
+    "2026-07-10": 4,
+    "2026-07-04": 3,
+    "2026-07-03": 1,
+    "2026-07-02": 6,
+    "2026-07-01": 16,
+    "2026-06-30": 1,
+    "2026-06-29": 1,
+    "2026-06-21": 4,
+    "2026-06-20": 3,
+    "2026-03-08": 1,
+    "2026-03-04": 1,
+    "2026-03-03": 2,
+    "2026-03-02": 2,
+    "2026-03-01": 5,
+    "2026-02-28": 4,
+    "2026-02-27": 1,
+    "2026-02-26": 2,
+    "2026-02-25": 8,
+    "2026-02-24": 6,
+    "2026-02-23": 5,
+    "2026-02-16": 7,
+    "2026-02-15": 2,
+    "2026-01-20": 1,
+    "2026-01-19": 5,
+    "2026-01-18": 2,
+    "2026-01-16": 2
+   },
+   "lang": {
+    "CSS": 3811,
+    "Razor": 43753,
+    "C#": 32388,
+    "JavaScript": 845,
+    "HTML": 400,
+    "SQL": 603
+   }
+  },
+  "MuhammadBilal-00/Customer-Registration-": {
+   "private": false,
+   "owner": "MuhammadBilal-00",
+   "commits": 2,
+   "repoCommits": 2,
+   "additions": 97763,
+   "deletions": 0,
+   "first": "2025-12-02",
+   "last": "2025-12-02",
+   "prs": {
+    "opened": 0,
+    "merged": 0,
+    "open": 0
+   },
+   "days": {
+    "2025-12-02": 2
+   },
+   "lang": {
+    "Razor": 1563,
+    "C#": 3471,
+    "CSS": 13634,
+    "JavaScript": 91
+   }
+  },
+  "MuhammadBilal-00/Education-Consultant-AI-Bot": {
+   "private": false,
+   "owner": "MuhammadBilal-00",
+   "commits": 2,
+   "repoCommits": 2,
+   "additions": 319,
+   "deletions": 2,
+   "first": "2026-06-27",
+   "last": "2026-06-27",
+   "prs": {
+    "opened": 0,
+    "merged": 0,
+    "open": 0
+   },
+   "days": {
+    "2026-06-27": 2
+   },
+   "lang": {
+    "Python": 169
+   }
+  },
+  "MuhammadBilal-00/F1-Oracle-AI": {
+   "private": false,
+   "owner": "MuhammadBilal-00",
+   "commits": 19,
+   "repoCommits": 19,
+   "additions": 720328,
+   "deletions": 566,
+   "first": "2026-06-06",
+   "last": "2026-06-07",
+   "prs": {
+    "opened": 0,
+    "merged": 0,
+    "open": 0
+   },
+   "days": {
+    "2026-06-07": 1,
+    "2026-06-06": 18
+   },
+   "lang": {
+    "Python": 3925,
+    "TypeScript": 4113,
+    "JavaScript": 25,
+    "CSS": 219
+   }
+  },
+  "MuhammadBilal-00/Heart-Disease-Predictor": {
+   "private": false,
+   "owner": "MuhammadBilal-00",
+   "commits": 1,
+   "repoCommits": 1,
+   "additions": 2119,
+   "deletions": 0,
+   "first": "2026-04-21",
+   "last": "2026-04-21",
+   "prs": {
+    "opened": 0,
+    "merged": 0,
+    "open": 0
+   },
+   "days": {
+    "2026-04-21": 1
+   },
+   "lang": {
+    "R": 222,
+    "HTML": 1881
+   }
+  },
+  "MuhammadBilal-00/Library-Management-System": {
+   "private": false,
+   "owner": "MuhammadBilal-00",
+   "commits": 2,
+   "repoCommits": 2,
+   "additions": 162540,
+   "deletions": 0,
+   "first": "2025-12-02",
+   "last": "2025-12-02",
+   "prs": {
+    "opened": 0,
+    "merged": 0,
+    "open": 0
+   },
+   "days": {
+    "2025-12-02": 2
+   },
+   "lang": {
+    "C#": 4217,
+    "Razor": 2104,
+    "CSS": 668,
+    "JavaScript": 60
+   }
+  },
+  "MuhammadBilal-00/Multimodal-Cognitive-Overload-Detection": {
+   "private": false,
+   "owner": "MuhammadBilal-00",
+   "commits": 48,
+   "repoCommits": 76,
+   "additions": 33936,
+   "deletions": 9457,
+   "first": "2026-07-31",
+   "last": "2026-09-05",
+   "prs": {
+    "opened": 0,
+    "merged": 0,
+    "open": 0
+   },
+   "days": {
+    "2026-09-05": 1,
+    "2026-08-30": 1,
+    "2026-08-29": 13,
+    "2026-08-27": 1,
+    "2026-08-16": 1,
+    "2026-08-09": 6,
+    "2026-08-03": 5,
+    "2026-08-02": 4,
+    "2026-08-01": 15,
+    "2026-07-31": 1
+   },
+   "lang": {
+    "Python": 6227,
+    "TypeScript": 2213,
+    "HTML": 193,
+    "JavaScript": 833,
+    "CSS": 97
+   }
+  },
+  "MuhammadBilal-00/RBiX--Technologies": {
+   "private": true,
+   "owner": "MuhammadBilal-00",
+   "commits": 1,
+   "repoCommits": 1,
+   "additions": 1758,
+   "deletions": 0,
+   "first": "2026-09-26",
+   "last": "2026-09-26",
+   "prs": {
+    "opened": 0,
+    "merged": 0,
+    "open": 0
+   },
+   "days": {
+    "2026-09-26": 1
+   },
+   "lang": {}
+  },
+  "MuhammadBilal-00/RBiX--website": {
+   "private": true,
+   "owner": "MuhammadBilal-00",
+   "commits": 19,
+   "repoCommits": 42,
+   "additions": 176031,
+   "deletions": 8245,
+   "first": "2026-08-04",
+   "last": "2026-08-23",
+   "prs": {
+    "opened": 0,
+    "merged": 0,
+    "open": 0
+   },
+   "days": {
+    "2026-08-23": 2,
+    "2026-08-08": 2,
+    "2026-08-05": 9,
+    "2026-08-04": 6
+   },
+   "lang": {
+    "TypeScript": 5517,
+    "Python": 106,
+    "CSS": 1382,
+    "JavaScript": 305,
+    "HTML": 2256
+   }
+  },
+  "MuhammadBilal-00/RentRadar": {
+   "private": true,
+   "owner": "MuhammadBilal-00",
+   "commits": 3,
+   "repoCommits": 5,
+   "additions": 5049,
+   "deletions": 66,
+   "first": "2026-06-02",
+   "last": "2026-06-04",
+   "prs": {
+    "opened": 0,
+    "merged": 0,
+    "open": 0
+   },
+   "days": {
+    "2026-06-04": 1,
+    "2026-06-02": 2
+   },
+   "lang": {
+    "Python": 1520,
+    "JavaScript": 15,
+    "TypeScript": 906,
+    "CSS": 8
+   }
+  },
+  "MuhammadBilal-00/SaaS-Valuation-Predictor": {
+   "private": false,
+   "owner": "MuhammadBilal-00",
+   "commits": 3,
+   "repoCommits": 3,
+   "additions": 252,
+   "deletions": 0,
+   "first": "2025-06-15",
+   "last": "2025-06-15",
+   "prs": {
+    "opened": 0,
+    "merged": 0,
+    "open": 0
+   },
+   "days": {
+    "2025-06-15": 3
+   },
+   "lang": {
+    "Python": 150
+   }
+  },
+  "MuhammadBilal-00/Task-Manager-React": {
+   "private": false,
+   "owner": "MuhammadBilal-00",
+   "commits": 2,
+   "repoCommits": 2,
+   "additions": 18852,
+   "deletions": 91,
+   "first": "2025-07-06",
+   "last": "2025-12-02",
+   "prs": {
+    "opened": 0,
+    "merged": 0,
+    "open": 0
+   },
+   "days": {
+    "2025-12-02": 1,
+    "2025-07-06": 1
+   },
+   "lang": {
+    "HTML": 60,
+    "CSS": 174,
+    "JavaScript": 424
+   }
+  },
+  "MuhammadBilal-00/fyp-gnn-transit-forecasting": {
+   "private": true,
+   "owner": "MuhammadBilal-00",
+   "commits": 8,
+   "repoCommits": 8,
+   "additions": 215566,
+   "deletions": 11942,
+   "first": "2026-08-17",
+   "last": "2026-08-23",
+   "prs": {
+    "opened": 0,
+    "merged": 0,
+    "open": 0
+   },
+   "days": {
+    "2026-08-23": 2,
+    "2026-08-19": 4,
+    "2026-08-17": 2
+   },
+   "lang": {
+    "Python": 4088,
+    "HTML": 795
+   }
+  },
+  "MuhammadBilal-00/tfl-central-london-bus-backup": {
+   "private": true,
+   "owner": "MuhammadBilal-00",
+   "commits": 1,
+   "repoCommits": 700,
+   "additions": 783,
+   "deletions": 0,
+   "first": "2026-08-16",
+   "last": "2026-08-16",
+   "prs": {
+    "opened": 0,
+    "merged": 0,
+    "open": 0
+   },
+   "days": {
+    "2026-08-16": 1
+   },
+   "lang": {
+    "Python": 287
+   }
+  },
+  "Rehan00122/RBIXCRM": {
+   "private": true,
+   "owner": "Rehan00122",
+   "commits": 4,
+   "repoCommits": 11,
+   "additions": 22334,
+   "deletions": 10815,
+   "first": "2026-09-26",
+   "last": "2026-09-26",
+   "prs": {
+    "opened": 2,
+    "merged": 1,
+    "open": 1
+   },
+   "days": {
+    "2026-09-26": 4
+   },
+   "lang": {
+    "JavaScript": 27,
+    "HTML": 13,
+    "TypeScript": 12637,
+    "CSS": 198
+   }
+  },
+  "azimystic/PARCHIWEB": {
+   "private": true,
+   "owner": "azimystic",
+   "commits": 23,
+   "repoCommits": 70,
+   "additions": 44514,
+   "deletions": 4174,
+   "first": "2026-04-17",
+   "last": "2026-05-17",
+   "prs": {
+    "opened": 0,
+    "merged": 0,
+    "open": 0
+   },
+   "days": {
+    "2026-05-17": 1,
+    "2026-05-12": 1,
+    "2026-05-11": 2,
+    "2026-05-10": 1,
+    "2026-05-07": 4,
+    "2026-04-25": 1,
+    "2026-04-22": 1,
+    "2026-04-21": 1,
+    "2026-04-20": 1,
+    "2026-04-19": 2,
+    "2026-04-18": 1,
+    "2026-04-17": 7
+   },
+   "lang": {
+    "C#": 9937,
+    "Razor": 9235,
+    "CSS": 1803,
+    "SQL": 116,
+    "JavaScript": 162
+   }
+  },
+  "azimystic/Parchi": {
+   "private": true,
+   "owner": "azimystic",
+   "commits": 40,
+   "repoCommits": 85,
+   "additions": 69411,
+   "deletions": 29789,
+   "first": "2026-02-22",
+   "last": "2026-04-05",
+   "prs": {
+    "opened": 0,
+    "merged": 0,
+    "open": 0
+   },
+   "days": {
+    "2026-04-05": 1,
+    "2026-04-04": 2,
+    "2026-03-27": 1,
+    "2026-03-19": 1,
+    "2026-03-18": 1,
+    "2026-03-17": 1,
+    "2026-03-12": 1,
+    "2026-03-09": 1,
+    "2026-03-08": 3,
+    "2026-03-07": 5,
+    "2026-03-06": 3,
+    "2026-03-05": 4,
+    "2026-03-04": 1,
+    "2026-03-03": 2,
+    "2026-03-02": 2,
+    "2026-02-28": 4,
+    "2026-02-26": 3,
+    "2026-02-25": 2,
+    "2026-02-22": 2
+   },
+   "lang": {
+    "TypeScript": 63648,
+    "SQL": 1426,
+    "JavaScript": 12
+   }
+  },
+  "azimystic/kampus": {
+   "private": true,
+   "owner": "azimystic",
+   "commits": 38,
+   "repoCommits": 1228,
+   "additions": 239347,
+   "deletions": 126549,
+   "first": "2026-07-26",
+   "last": "2026-08-20",
+   "prs": {
+    "opened": 12,
+    "merged": 12,
+    "open": 0
+   },
+   "days": {
+    "2026-08-20": 1,
+    "2026-08-19": 15,
+    "2026-08-16": 1,
+    "2026-08-04": 1,
+    "2026-07-27": 3,
+    "2026-07-26": 17
+   },
+   "lang": {
+    "C#": 16337,
+    "TypeScript": 4749,
+    "SQL": 251
+   }
+  },
+  "azimystic/kampus_website": {
+   "private": true,
+   "owner": "azimystic",
+   "commits": 0,
+   "repoCommits": 55,
+   "additions": 0,
+   "deletions": 0,
+   "first": null,
+   "last": null,
+   "prs": {
+    "opened": 3,
+    "merged": 3,
+    "open": 0
+   },
+   "days": {},
+   "lang": {}
+  }
+ }
+}

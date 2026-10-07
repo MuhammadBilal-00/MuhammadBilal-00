@@ -1,0 +1,401 @@
+{
+  "_comment": "Curated portfolio inventory. Every entry must be backed by authored commits or pull requests in data/evidence.json (run scripts/collect.mjs). Ownership is irrelevant; evidence of work is what counts. Roles are only stated when evidence supports them.",
+  "groups": [
+    {
+      "id": "platforms",
+      "title": "Business platforms & SaaS"
+    },
+    {
+      "id": "ticketing",
+      "title": "Event ticketing"
+    },
+    {
+      "id": "ml",
+      "title": "Applied ML & data"
+    },
+    {
+      "id": "web",
+      "title": "Web applications"
+    }
+  ],
+  "projects": [
+    {
+      "id": "kampus",
+      "name": "KAMPUS",
+      "group": "platforms",
+      "featured": true,
+      "summary": "Multi-campus school management platform: academics, attendance, exams, HR and payroll, billing with double-entry accounting, and separate admin, teacher, student and parent portals plus a mobile app.",
+      "short": "School management platform: web portals, API and mobile app",
+      "role": "Developer",
+      "stack": [
+        "C#",
+        "ASP.NET Core 8",
+        "EF Core",
+        "PostgreSQL",
+        "Next.js 16",
+        "React 19",
+        "TypeScript",
+        "Tailwind 4",
+        "Expo / React Native"
+      ],
+      "repos": [
+        {
+          "name": "azimystic/kampus",
+          "note": "API, web portals, mobile app"
+        },
+        {
+          "name": "azimystic/kampus_website",
+          "note": "marketing site (Next.js)"
+        }
+      ],
+      "highlights": [
+        "Diary and whiteboard module end to end: API endpoints, attachment handling, Excalidraw whiteboards with PDF export, admin dashboard",
+        "Expo mobile features: online quizzes with autosave and focus tracking, complaints, payroll vouchers, file downloads, Android polish",
+        "Payroll and voucher generation, employee and teacher attendance, timetable assignment guards",
+        "Opened merged PRs for the multi-tenant master registry and admin console, notifications with chat attachments, and the KampusAI microservice split"
+      ]
+    },
+    {
+      "id": "cafe",
+      "name": "Cafe Management System",
+      "group": "platforms",
+      "featured": true,
+      "summary": "Restaurant operations platform on ASP.NET Core MVC: POS, kitchen order tickets (KOT) with printer routing, orders, inventory, accounting, HR and payroll, CRM, notifications and role-based access with branch isolation.",
+      "short": "Restaurant POS, kitchen, inventory, payroll and accounting",
+      "role": "Developer (repository owner)",
+      "stack": [
+        "C#",
+        "ASP.NET Core 8 MVC",
+        "EF Core",
+        "SQL Server",
+        "Razor"
+      ],
+      "repos": [
+        {
+          "name": "MuhammadBilal-00/Cafe-Manangement-System",
+          "note": ""
+        }
+      ],
+      "highlights": [
+        "Hardened the money path: capped tenders, atomic redemptions, compensation on failure; ledger-true decimal stock deductions",
+        "Versioned salary policies with a preview workflow and a three-state payroll lifecycle; audit logging through an EF Core interceptor",
+        "Role-based access with branch-level data isolation across all controllers; production-readiness audit",
+        "Design-token UI system with five themes, command palette, English and Urdu localisation, thermal receipts"
+      ]
+    },
+    {
+      "id": "parchi",
+      "name": "PARCHI",
+      "group": "ticketing",
+      "featured": true,
+      "summary": "Event ticketing platform: a React Native app for buyers and sellers, and an ASP.NET Core web platform for organisers and institutions.",
+      "short": "Event ticketing: React Native app and ASP.NET Core web platform",
+      "role": "Developer",
+      "stack": [
+        "TypeScript",
+        "React Native",
+        "Expo SDK 54",
+        "Supabase",
+        "PostgreSQL",
+        "C#",
+        "ASP.NET Core 8",
+        "EF Core"
+      ],
+      "repos": [
+        {
+          "name": "azimystic/Parchi",
+          "note": "mobile app (Expo)"
+        },
+        {
+          "name": "azimystic/PARCHIWEB",
+          "note": "web platform (ASP.NET Core)"
+        }
+      ],
+      "highlights": [
+        "QR scanner check-in for security staff, backed by server-side RPCs instead of permissive row-level security",
+        "Seller dashboard, multi-step event creation, free-ticket auto-approval and approval workflows",
+        "Hardening passes: approval race conditions, OTP rate limiting, CNIC validation, promo-code usage tracking",
+        "Web: event lifecycle with shadow drafts, institution moderation and registration control; dashboards, ledger and expense modules"
+      ]
+    },
+    {
+      "id": "rbix",
+      "name": "RBiX Technologies",
+      "group": "platforms",
+      "featured": true,
+      "summary": "Company website, a CRM product and internal tooling for RBiX Technologies.",
+      "short": "Company website, CRM frontend and internal tooling",
+      "role": "Developer; owner of the website repository",
+      "stack": [
+        "TypeScript",
+        "Next.js 15",
+        "React 19",
+        "Vite",
+        "Tailwind 4",
+        "TanStack Query",
+        ".NET 10 API",
+        "PostgreSQL"
+      ],
+      "repos": [
+        {
+          "name": "MuhammadBilal-00/RBiX--website",
+          "note": "company website (Next.js static export)"
+        },
+        {
+          "name": "Rehan00122/RBIXCRM",
+          "note": "CRM: React frontend, .NET 10 API, PostgreSQL"
+        },
+        {
+          "name": "MuhammadBilal-00/RBiX--Technologies",
+          "note": "internal documents and assets"
+        }
+      ],
+      "highlights": [
+        "Website rebuilt as a Next.js static export in phased passes: scroll animation, mobile navigation, SEO structured data, accessibility, cPanel deployment",
+        "CRM frontend redesigned on a shared design system; open PR for companies, contacts, tasks, import/export and full forms"
+      ],
+      "coDevelopedWith": [
+        "Rehan00122"
+      ]
+    },
+    {
+      "id": "f1",
+      "name": "F1 Oracle AI",
+      "group": "ml",
+      "featured": true,
+      "summary": "Formula 1 analytics and prediction platform: a gradient-boosting ensemble with SHAP explanations, a Monte Carlo race simulator and a Next.js dashboard over the full Ergast history.",
+      "short": "F1 prediction, SHAP explanations and Monte Carlo simulation",
+      "role": "Author",
+      "stack": [
+        "Python",
+        "FastAPI",
+        "XGBoost",
+        "LightGBM",
+        "CatBoost",
+        "SHAP",
+        "TypeScript",
+        "Next.js 16",
+        "React 19",
+        "Tailwind 4"
+      ],
+      "repos": [
+        {
+          "name": "MuhammadBilal-00/F1-Oracle-AI",
+          "note": ""
+        }
+      ],
+      "live": "https://f1-oracle-ai.vercel.app",
+      "highlights": [
+        "Monte Carlo engine rebuilt as a model-seeded outcome sampler, anchored to qualifying form",
+        "What-if race predictor; constructor, circuit and driver analytics; Render blueprint and Vercel deployment"
+      ]
+    },
+    {
+      "id": "cognitive",
+      "name": "Cognitive Overload Detection",
+      "group": "ml",
+      "featured": true,
+      "summary": "Final-year project: engagement and cognitive-state detection from webcam video, with all inference running in the browser so video never leaves the device.",
+      "short": "In-browser cognitive-state detection from webcam, int8 ONNX",
+      "role": "Developer (collaborative project)",
+      "stack": [
+        "Python",
+        "PyTorch",
+        "ONNX (int8)",
+        "onnxruntime-web",
+        "MediaPipe",
+        "TypeScript",
+        "Next.js",
+        "GitHub Actions"
+      ],
+      "repos": [
+        {
+          "name": "MuhammadBilal-00/Multimodal-Cognitive-Overload-Detection",
+          "note": ""
+        }
+      ],
+      "highlights": [
+        "Pipeline from DAiSEE video to features to a temporal convolutional network, quantised to an int8 ONNX model of about 60 KB",
+        "In-browser feature extraction and inference with a strict same-origin CSP; nested cross-validation, ablations and an audit-and-remediation pass",
+        "Test gates, CI, and the written thesis material"
+      ],
+      "coDevelopedWith": [
+        "azimystic"
+      ]
+    },
+    {
+      "id": "gnn",
+      "name": "Transit forecasting with GNNs",
+      "group": "ml",
+      "featured": false,
+      "summary": "Spatio-temporal graph neural networks for traffic and transit forecasting: STGCN on METR-LA, then London Underground data, with naive baselines and a model comparison. Includes a GitHub Actions collector for live TfL bus arrivals.",
+      "short": "Spatio-temporal GNN forecasting on METR-LA and TfL data",
+      "role": "Developer",
+      "stack": [
+        "Python",
+        "PyTorch",
+        "PyTorch Geometric",
+        "pandas",
+        "GitHub Actions"
+      ],
+      "repos": [
+        {
+          "name": "MuhammadBilal-00/fyp-gnn-transit-forecasting",
+          "note": "models and results dashboard"
+        },
+        {
+          "name": "MuhammadBilal-00/tfl-central-london-bus-backup",
+          "note": "live bus-arrival collector (39 stops)"
+        }
+      ],
+      "highlights": [
+        "STGCN, GraphWaveNet, iTransformer, PDFormer, N-HiTS, PatchTST and TimeMixer compared against persistence and historical-average baselines",
+        "Interactive results dashboard comparing STGCN against the baseline"
+      ]
+    },
+    {
+      "id": "rentradar",
+      "name": "RentRadar",
+      "group": "ml",
+      "featured": false,
+      "summary": "Student neighbourhood analytics dashboard MVP: FastAPI scoring backend and a Next.js dashboard.",
+      "short": "Student neighbourhood analytics MVP",
+      "role": "Developer",
+      "stack": [
+        "Python",
+        "FastAPI",
+        "TypeScript",
+        "Next.js",
+        "Tailwind",
+        "Recharts"
+      ],
+      "repos": [
+        {
+          "name": "MuhammadBilal-00/RentRadar",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "edubot",
+      "name": "Education Consultant Chatbot",
+      "group": "ml",
+      "featured": false,
+      "summary": "Streaming student-guidance chatbot with topic selection and bounded conversation memory.",
+      "short": "Streaming student-guidance chatbot on Groq",
+      "role": "Author",
+      "stack": [
+        "Python",
+        "Gradio",
+        "Groq API"
+      ],
+      "repos": [
+        {
+          "name": "MuhammadBilal-00/Education-Consultant-AI-Bot",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "saas-valuation",
+      "name": "SaaS Valuation Predictor",
+      "group": "ml",
+      "featured": false,
+      "summary": "Interactive app that estimates SaaS company valuations with a random-forest regressor.",
+      "short": "Random-forest SaaS valuation estimator",
+      "role": "Author",
+      "stack": [
+        "Python",
+        "Streamlit",
+        "scikit-learn",
+        "pandas"
+      ],
+      "repos": [
+        {
+          "name": "MuhammadBilal-00/SaaS-Valuation-Predictor",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "heart",
+      "name": "Heart Disease Predictor",
+      "group": "ml",
+      "featured": false,
+      "summary": "Decision-tree analysis of the UCI Cleveland heart-disease dataset, with a full written report.",
+      "short": "Decision-tree heart-disease analysis in R",
+      "role": "Author",
+      "stack": [
+        "R",
+        "rpart",
+        "R Markdown"
+      ],
+      "repos": [
+        {
+          "name": "MuhammadBilal-00/Heart-Disease-Predictor",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "library",
+      "name": "Library Management System",
+      "group": "web",
+      "featured": false,
+      "summary": "Layered ASP.NET Core MVC application with separate data, data-access and utility projects.",
+      "short": "Layered ASP.NET Core MVC library system",
+      "role": "Author",
+      "stack": [
+        "C#",
+        "ASP.NET Core MVC",
+        "Razor"
+      ],
+      "repos": [
+        {
+          "name": "MuhammadBilal-00/Library-Management-System",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "customer-registration",
+      "name": "Customer Registration",
+      "group": "web",
+      "featured": false,
+      "summary": "ASP.NET Core MVC customer registration application with areas, EF Core migrations and an e-mail sender.",
+      "short": "ASP.NET Core MVC customer registration app",
+      "role": "Author",
+      "stack": [
+        "C#",
+        "ASP.NET Core MVC",
+        "EF Core",
+        "Razor"
+      ],
+      "repos": [
+        {
+          "name": "MuhammadBilal-00/Customer-Registration-",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "id": "task-manager",
+      "name": "Task Manager",
+      "group": "web",
+      "featured": false,
+      "summary": "React task manager application.",
+      "short": "React task manager",
+      "role": "Author",
+      "stack": [
+        "JavaScript",
+        "React"
+      ],
+      "repos": [
+        {
+          "name": "MuhammadBilal-00/Task-Manager-React",
+          "note": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+# local-only: API response cache and the full (private) inventory notes
+.cache/
+.private/
+node_modules/
