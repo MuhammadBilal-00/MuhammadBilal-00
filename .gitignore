@@ -2,3 +2,7 @@
 .cache/
 .private/
 node_modules/
+
+# generated: data/evidence.json is rebuilt by collect.mjs; dist/ is published to the output branch
+data/evidence.json
+dist/

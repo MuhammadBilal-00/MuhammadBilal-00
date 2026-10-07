@@ -46,6 +46,7 @@ Most of this work lives in repositories owned by collaborators or companies, not
 **Role** Developer  
 **Evidence** 38 commits, 15 PRs merged, Jul 2026 to Aug 2026  
 **Stack** `C#` `ASP.NET Core 8` `EF Core` `PostgreSQL` `Next.js 16` `React 19` `TypeScript` `Tailwind 4` `Expo / React Native`  
+**Live** [kampuscloud.app](https://kampuscloud.app/)  
 **Repositories** `azimystic/kampus` (private): API, web portals, mobile app · `azimystic/kampus_website` (private): marketing site (Next.js)
 
 - Diary and whiteboard module end to end: API endpoints, attachment handling, Excalidraw whiteboards with PDF export, admin dashboard
@@ -85,6 +86,7 @@ Most of this work lives in repositories owned by collaborators or companies, not
 **Role** Developer; owner of the website repository  
 **Evidence** 24 commits, 2 PRs (1 merged), Aug 2026 to Sep 2026  
 **Stack** `TypeScript` `Next.js 15` `React 19` `Vite` `Tailwind 4` `TanStack Query` `.NET 10 API` `PostgreSQL`  
+**Live** [rbixtechnologies.com](https://rbixtechnologies.com/)  
 **Repositories** `MuhammadBilal-00/RBiX--website` (private): company website (Next.js static export) · `Rehan00122/RBIXCRM` (private): CRM: React frontend, .NET 10 API, PostgreSQL · `MuhammadBilal-00/RBiX--Technologies` (private): internal documents and assets
 
 - Website rebuilt as a Next.js static export in phased passes: scroll animation, mobile navigation, SEO structured data, accessibility, cPanel deployment
@@ -173,11 +175,11 @@ In repositories I own, I co-developed with [@Rehan00122](https://github.com/Reha
 <!--/GENERATED:langnote-->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/languages-dark.svg">
-  <img src="assets/languages-light.svg" alt="Language mix of code I have authored, led by TypeScript, C# and Razor" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MuhammadBilal-00/MuhammadBilal-00/output/languages-dark.svg">
+  <img src="https://raw.githubusercontent.com/MuhammadBilal-00/MuhammadBilal-00/output/languages-light.svg" alt="Language mix of code I have authored, led by TypeScript, C# and Razor" width="100%">
 </picture>
 
-<sub>Share of lines added in my own commits, excluding lockfiles, migrations, vendored tooling and data files. By repository size, C# is also the largest language in KAMPUS, Cafe Management System and PARCHIWEB.</sub>
+<sub>Share of lines added in my own commits, excluding lockfiles, migrations, vendored tooling and data files. By repository size, C# is also the largest language in KAMPUS, Cafe Management System and PARCHIWEB. Refreshed weekly by a [GitHub Action](.github/workflows/refresh.yml).</sub>
 
 | Layer | Technologies used in the projects above |
 | --- | --- |
@@ -196,11 +198,11 @@ In repositories I own, I co-developed with [@Rehan00122](https://github.com/Reha
 <!--/GENERATED:activitynote-->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/activity-dark.svg">
-  <img src="assets/activity-light.svg" alt="Commit heatmap for the last 12 months across public and private repositories" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MuhammadBilal-00/MuhammadBilal-00/output/activity-dark.svg">
+  <img src="https://raw.githubusercontent.com/MuhammadBilal-00/MuhammadBilal-00/output/activity-light.svg" alt="Commit heatmap for the last 12 months across public and private repositories" width="100%">
 </picture>
 
-<sub>GitHub's own contribution graph hides most private work, so this chart is generated from the commit history of every repository listed above; only counts are published. Data as of <!--GENERATED:updated-->2026-10-07<!--/GENERATED:updated-->; regenerate with the scripts in [`scripts/`](scripts/).</sub>
+<sub>GitHub's own contribution graph hides most private work, so this chart is generated from the commit history of every repository listed above; only counts are published. Refreshed weekly by a [GitHub Action](.github/workflows/refresh.yml).</sub>
 
 ## Contact
 

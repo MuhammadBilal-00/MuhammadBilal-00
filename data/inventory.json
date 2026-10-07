@@ -48,6 +48,7 @@
           "note": "marketing site (Next.js)"
         }
       ],
+      "live": "https://kampuscloud.app/",
       "highlights": [
         "Diary and whiteboard module end to end: API endpoints, attachment handling, Excalidraw whiteboards with PDF export, admin dashboard",
         "Expo mobile features: online quizzes with autosave and focus tracking, complaints, payroll vouchers, file downloads, Android polish",
@@ -150,6 +151,7 @@
           "note": "internal documents and assets"
         }
       ],
+      "live": "https://rbixtechnologies.com/",
       "highlights": [
         "Website rebuilt as a Next.js static export in phased passes: scroll animation, mobile navigation, SEO structured data, accessibility, cPanel deployment",
         "CRM frontend redesigned on a shared design system; open PR for companies, contacts, tasks, import/export and full forms"

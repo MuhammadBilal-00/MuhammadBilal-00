@@ -154,13 +154,16 @@ function activity(t) {
 // ---------------------------------------------------------------------------------------
 // write assets
 // ---------------------------------------------------------------------------------------
+// hero is static and lives in the repository; the data-driven charts go to dist/, which the
+// refresh workflow publishes to the `output` branch (see .github/workflows/refresh.yml).
 mkdirSync('assets', { recursive: true });
+mkdirSync('dist', { recursive: true });
 let act;
 for (const [mode, t] of Object.entries(THEMES)) {
   writeFileSync(`assets/hero-${mode}.svg`, hero(t));
-  writeFileSync(`assets/languages-${mode}.svg`, languages(t));
+  writeFileSync(`dist/languages-${mode}.svg`, languages(t));
   act = activity(t);
-  writeFileSync(`assets/activity-${mode}.svg`, act.svg);
+  writeFileSync(`dist/activity-${mode}.svg`, act.svg);
 }
 
 // ---------------------------------------------------------------------------------------
@@ -194,8 +197,7 @@ function featured() {
     const ev = projectEvidence(p);
     const pub = p.repos.find((r) => !evidence.repos[r.name].private);
     const title = pub ? `[${p.name}](https://github.com/${pub.name})` : p.name;
-    const live = p.live ? `**Live** [${p.live.replace('https://', '')}](${p.live})  
-` : '';
+    const live = p.live ? `**Live** [${p.live.replace('https://', '').replace(/\/$/, '')}](${p.live})  \n` : '';
     const repoLines = p.repos.map((r) => `${repoLink(r.name)}${r.note ? `: ${r.note}` : ''}`);
     return [
       `### ${title}`,
@@ -246,10 +248,9 @@ function collaboration() {
   return `${table}\n\nIn repositories I own, I co-developed with ${co.join(' and ')}, who also have commits there.`;
 }
 
-const INLINE = new Set(['updated']);
 let readme = readFileSync('README.md', 'utf8');
 const blocks = {
-  updated: TODAY, featured: featured(), projects: allProjects(), collab: collaboration(),
+  featured: featured(), projects: allProjects(), collab: collaboration(),
   metrics: `**${totals.repos}** repositories &nbsp;·&nbsp; **${fmt(totals.commits)}** commits &nbsp;·&nbsp; **${totals.prs}** pull requests &nbsp;·&nbsp; **${totals.foreign}** repositories owned by others`,
   activitynote: `**${fmt(act.total)} commits** in the last 12 months across ${totals.repos} repositories, on ${act.active} active days.`,
   langnote: `**${langs[0].name} ${langs[0].pct.toFixed(0)}%**, **C# ${(lang['C#'] / langTotal * 100).toFixed(0)}%**, **Razor ${(lang.Razor / langTotal * 100).toFixed(0)}%**: C# and Razor together are ${((lang['C#'] + lang.Razor) / langTotal * 100).toFixed(0)}% of the code I have authored (${fmt(langTotal)} lines added across ${totals.repos} repositories).`,
@@ -258,8 +259,7 @@ const blocks = {
 for (const [name, text] of Object.entries(blocks)) {
   const re = new RegExp(`(<!--GENERATED:${name}-->)[\\s\\S]*?(<!--/GENERATED:${name}-->)`);
   if (!re.test(readme)) throw new Error(`README.md is missing the ${name} markers`);
-  const sep = INLINE.has(name) ? '' : '\n';
-  readme = readme.replace(re, (_, open, close) => `${open}${sep}${text}${sep}${close}`);
+  readme = readme.replace(re, (_, open, close) => `${open}\n${text}\n${close}`);
 }
 writeFileSync('README.md', readme);
 console.log(`rendered: ${totals.repos} repos, ${totals.commits} commits, ${totals.prs} PRs, ${act.total} commits in the last 12 months`);
