@@ -7,7 +7,7 @@
 
 Full-stack engineer in London. I build business platforms, mobile apps and ML products.
 
-[LinkedIn](https://www.linkedin.com/in/muhammad-bilal-a57aaa2bb/) &nbsp;·&nbsp; [Email](mailto:bilalbhatticc683@gmail.com) &nbsp;·&nbsp; [F1 Oracle AI (live)](https://f1-oracle-ai.vercel.app)
+[LinkedIn](https://www.linkedin.com/in/muhammad-bilal-a57aaa2bb/) &nbsp;·&nbsp; [Email](mailto:bilalbhatticc683@gmail.com) &nbsp;·&nbsp; [KAMPUS (live)](https://kampuscloud.app/) &nbsp;·&nbsp; [RBiX (live)](https://rbixtechnologies.com/) &nbsp;·&nbsp; [F1 Oracle AI (live)](https://f1-oracle-ai.vercel.app)
 
 <!--GENERATED:metrics-->
 **19** repositories &nbsp;·&nbsp; **325** commits &nbsp;·&nbsp; **18** pull requests &nbsp;·&nbsp; **5** repositories owned by others
@@ -175,8 +175,8 @@ In repositories I own, I co-developed with [@Rehan00122](https://github.com/Reha
 <!--/GENERATED:langnote-->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MuhammadBilal-00/MuhammadBilal-00/output/languages-dark.svg">
-  <img src="https://raw.githubusercontent.com/MuhammadBilal-00/MuhammadBilal-00/output/languages-light.svg" alt="Language mix of code I have authored, led by TypeScript, C# and Razor" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadBilal-00&layout=compact&langs_count=10&hide_border=true&theme=github_dark_dimmed">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadBilal-00&layout=compact&langs_count=10&hide_border=true&theme=default" alt="Dynamic top languages used by MuhammadBilal-00 on GitHub" width="100%">
 </picture>
 
 <sub>Share of lines added in my own commits, excluding lockfiles, migrations, vendored tooling and data files. By repository size, C# is also the largest language in KAMPUS, Cafe Management System and PARCHIWEB. Refreshed weekly by a [GitHub Action](.github/workflows/refresh.yml).</sub>
